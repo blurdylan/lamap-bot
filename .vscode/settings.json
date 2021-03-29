@@ -1,7 +1,7 @@
 {
 	"python.pythonPath": "f:\\Projects\\Side Projects\\lamap\\lamapbot\\venv\\Scripts\\python.exe",
 	"python.autoComplete.extraPaths": ["./test"],
-	"editor.fontFamily": "'Operator Mono SSm Lig', 'Courier New', monospace",
+	
 	"editor.insertSpaces": false,
 	"editor.tabSize": 4,
 	"editor.fontSize": 15,
