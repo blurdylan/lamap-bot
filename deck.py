@@ -33,4 +33,4 @@ class Deck(object):
     def shuffle(self):
         """shuffles the deck"""
         # ? remove shuffle when testing cards
-        # shuffle(self.cards)
+        shuffle(self.cards)
